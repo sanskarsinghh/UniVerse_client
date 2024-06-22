@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UniVerse_client/static/css/main.b62ea404.css",
+    "main.js": "/UniVerse_client/static/js/main.889b7797.js",
+    "index.html": "/UniVerse_client/index.html",
+    "main.b62ea404.css.map": "/UniVerse_client/static/css/main.b62ea404.css.map",
+    "main.889b7797.js.map": "/UniVerse_client/static/js/main.889b7797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.889b7797.js"
+  ]
+}
